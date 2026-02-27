@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Karimzoda%20Mustafo&textBg=false&desc=FRONTEND%20DEVELOPER&descAlignY=66&descSize=25/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Karimzoda%20Mustafo&textBg=false&desc=FRONTEND%20DEVELOPER&descAlignY=66&descSize=25/>"
 </p>
   <p align="center">
   Frontend Developer from Tajikistan<br/>
