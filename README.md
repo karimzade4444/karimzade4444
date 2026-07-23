@@ -1,25 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Karimzoda%20Mustafo&fontSize=55&fontAlignY=40&desc=Frontend%20Developer&descAlignY=62&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Karimzoda%20Mustafo&fontSize=55&fontAlignY=40&desc=Frontend%20Developer&descAlignY=62&descSize=24"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Karimzoda Mustafo</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Karimzoda+Mustafo+%F0%9F%91%8B;Frontend+Developer+from+Tajikistan+%F0%9F%87%B9%F0%9F%87%AF;React+%7C+TypeScript+%7C+Next.js;Always+Learning+New+Technologies;Future+Full-Stack+Developer+%F0%9F%9A%80"/>
+</p>
+
+---
 
 <h3 align="center">
 Frontend Developer from 🇹🇯 Tajikistan
 </h3>
 
 <p align="center">
-Building modern web applications with React & TypeScript.
+Building beautiful, responsive and modern web applications using React ecosystem.
 </p>
 
 <p align="center">
+
 <a href="https://t.me/Karimzade_8222">
-<img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=karimzade4444&style=for-the-badge&color=7C3AED"/>
+
 </p>
 
 ---
@@ -27,31 +31,32 @@ Building modern web applications with React & TypeScript.
 # 👨‍💻 About Me
 
 - 🎓 Student at **Academy of Public Administration under the President of the Republic of Tajikistan**
-- 💻 Passionate about **Frontend Development**
-- ⚛️ React & TypeScript enthusiast
-- 🌱 Currently learning **Next.js**, **Node.js** and backend technologies
-- 🎯 Goal: Become a **Full-Stack Developer**, then a **Game Developer**
-- 🚀 Always improving my skills through real-world projects
+- 💻 Passionate about Frontend Development
+- ⚛️ React & TypeScript Developer
+- 🌱 Currently learning **Next.js**, **Node.js**, Backend Development
+- 🎮 Dream: Become a Full-Stack Developer and then a Game Developer
+- 🚀 Love creating beautiful UI/UX and modern web apps
+- 📚 Learning every day
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,git,github,figma,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,git,github,figma,vscode,npm,postman"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=karimzade4444&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimzade4444&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -61,9 +66,66 @@ Building modern web applications with React & TypeScript.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=karimzade4444&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karimzade4444&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=karimzade4444&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 💻 Current Focus
+
+```ts
+const Karimzoda = {
+    code: [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js"
+    ],
+
+    frontend: [
+        "Tailwind CSS",
+        "Shadcn UI",
+        "Mantine",
+        "React Query",
+        "Zustand"
+    ],
+
+    backend: [
+        "Node.js",
+        "REST API"
+    ],
+
+    currentlyLearning: [
+        "Next.js",
+        "Node.js",
+        "Authentication",
+        "Full Stack Development"
+    ],
+
+    futureGoal: "Game Developer 🎮"
+}
+```
 
 ---
 
@@ -77,30 +139,18 @@ Building modern web applications with React & TypeScript.
 
 ---
 
-# 💻 Current Focus
+# 🎯 Looking For
 
-✔ React
-
-✔ TypeScript
-
-✔ Tailwind CSS
-
-✔ React Query
-
-✔ Zustand
-
-✔ REST API
-
-✔ Responsive UI
+- 🚀 Frontend Internship
+- 💼 Junior Frontend Position
+- 🤝 Open Source Projects
+- 👨‍💻 Collaboration with Developers
 
 ---
 
-# 🎯 Looking For
+# 💬 Favorite Quote
 
-- Frontend Internship
-- Junior Frontend Position
-- Open Source Projects
-- Team Collaboration
+> **"Great software is built one commit at a time."**
 
 ---
 
@@ -114,6 +164,10 @@ Building modern web applications with React & TypeScript.
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient"/>
+### ⭐ If you like my projects, don't forget to leave a star!
 
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient"/>
 </p>
