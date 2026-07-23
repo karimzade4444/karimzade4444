@@ -49,6 +49,12 @@ Building beautiful, responsive and modern web applications using React ecosystem
 </p>
 
 ---
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karimzade4444/karimzade4444/output/github-snake.svg" />
+</p>
+---
 
 # 📊 GitHub Statistics
 
@@ -172,8 +178,4 @@ const Karimzoda = {
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient"/>
 </p>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karimzade4444/karimzade4444/output/github-snake.svg" />
-</p>
